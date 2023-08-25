@@ -7,3 +7,6 @@ hello is added :) edited
 I want this line added to previous commit.
 
 last line added
+
+line 8
+line 9
